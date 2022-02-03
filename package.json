@@ -1,0 +1,20 @@
+{
+  "name": "sass-clone-instagram",
+  "version": "1.0.0",
+  "description": "`#sass` `#css` `#html` `#master-in-software-engineering`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass ./assets/scss/login.scss ./assets/css/login.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMhirs/sass-clone-instagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMhirs/sass-clone-instagram/issues"
+  },
+  "homepage": "https://github.com/MrMhirs/sass-clone-instagram#readme"
+}
