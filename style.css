@@ -1,3 +1,6 @@
+
+
+
 body {
     background-color: #fafafa;
     font-family: sans-serif;
@@ -28,20 +31,19 @@ body {
     border-width: 2px;
     text-align: center;
     background-color: white;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .logo{
     width: 180px;
-    margin-top: 30px;
-    background-color: white;
-
 }
 
 .form {
     margin-top: 30px;
-    
 }
+
+
 .input {
     width: 300px;
     height: 20px;
@@ -73,3 +75,15 @@ body {
     margin-top: 20px;
     padding-top: 20px;
 }
+
+.link-signup {
+    color: #0095f6;
+    text-decoration: none;
+}
+
+.download{
+    text-align: center;
+}
+
+
+
